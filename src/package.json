@@ -1,0 +1,35 @@
+{
+  "name": "charts-nethues",
+  "version": "0.1.17",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "sherman",
+    "email": "sherman@123789.org"
+  },
+  "keywords": [
+     "angular",
+    "angular4",
+    "charts",
+    "charts-nethues",
+    "angular4-charts",
+    "angular2-charts",
+    "angular2"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "charts-nethues.umd.js",
+  "module": "charts-nethues.js",
+  "jsnext:main": "charts-nethues.js",
+  "typings": "charts-nethues.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4",
+    "chart.js": "^2.7.0"
+  }
+}
