@@ -121,7 +121,7 @@ export class AppComponent implements OnInit {
 
 
 
-##Parameters
+## Parameters
 
 
 | Name          | Type          | Default value       |  Description                            |
@@ -134,7 +134,7 @@ export class AppComponent implements OnInit {
 
 for complete feature documentation please refer [chart.js](http://www.chartjs.org/docs/latest/)
 
-##Feature
+## Feature
 
 * AOT(ahead of time)/JIT(just in time) compatible
 * supports all major browsers

@@ -1,13 +1,13 @@
 {
   "name": "charts-nethues",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/nethuestechnologies/charts-nethues"
   },
   "author": {
-    "name": "sherman",
-    "email": "sherman@123789.org"
+    "name": "nethues",
+    "email": "info@nethues.com"
   },
   "keywords": [
      "angular",
@@ -20,7 +20,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/nethuestechnologies/charts-nethues/issues"
   },
   "main": "charts-nethues.umd.js",
   "module": "charts-nethues.js",
