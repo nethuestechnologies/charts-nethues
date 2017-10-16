@@ -145,4 +145,4 @@ for complete feature documentation please refer [chart.js](http://www.chartjs.or
 
 ## License
 
-MIT © [nethues](mailto:saurabh@nethues.com)
+MIT © [nethues](mailto:info@nethues.com)
