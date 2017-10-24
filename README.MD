@@ -126,11 +126,11 @@ export class AppComponent implements OnInit {
 
 | Name          | Type          | Default value       |  Description                            |
 |:--------------|:--------------|:--------------------|:----------------------------------------|
-| type          | string        | line                | The type of chart we want to create     for                                                     example bar,radar,pie etc               
+| type          | string        | line                | The type of chart we want to create     for                                                     example bar,radar,pie etc [docs](http://www.chartjs.org/docs/latest/charts/)               
 | height        | string        | 400px               | Height of the chart in px               |
 | width         | string        | 400px               | Width of the chart in px                |
-| data          | object        | - (random)          | Please refer chart.js documentation     |
-| options       | object        | - (random)          | Please refer chart.js documentation     |
+| data          | object        | - (random)          | Please refer [chart.js](http://www.chartjs.org/docs/latest/getting-started/usage.html) documentation     |
+| options       | object        | - (random)          | Please refer [chart.js](http://www.chartjs.org/docs/latest/getting-started/usage.html) documentation     |
 
 for complete feature documentation please refer [chart.js](http://www.chartjs.org/docs/latest/)
 
