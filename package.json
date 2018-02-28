@@ -29,7 +29,13 @@
     "charts-nethues",
     "angular4-charts",
     "angular2-charts",
-    "angular2"
+    "angular2",
+    "angular5",
+    "angular5-charts",
+    "nethues-charts",
+    "charts-nethues",
+    "pie",
+    "bar"
   ],
   "license": "MIT",
   "bugs": {
