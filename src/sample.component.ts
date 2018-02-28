@@ -2,7 +2,7 @@ import { Component,ViewChild,ElementRef,AfterViewInit,Input } from '@angular/cor
 declare var Chart:any;
 @Component({
   selector: 'nethues-charts',
-  template: `<div class="chart" [style.width]="height" [style.height]="width">
+  template: `<div class="chart" [style.width]="width" [style.height]="height">
     <canvas id="myChart1" height="200" width="200" #myCanvas></canvas>
     
     </div>`

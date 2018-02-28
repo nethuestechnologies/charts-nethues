@@ -1,6 +1,6 @@
 {
   "name": "charts-nethues",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/username/repo"
+    "url": "https://github.com/nethuestechnologies/charts-nethues"
   },
   "author": {
     "name": "sherman",
@@ -34,7 +34,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/username/repo/issues"
+    "url": "https://github.com/nethuestechnologies/charts-nethues/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",
